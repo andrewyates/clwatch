@@ -1,0 +1,8 @@
+email_subject_prefix: "new apartment found:"
+email_from: "somewhere@example.com"
+email_to: "you@example.com"
+
+local_craigslist: http://newyork.craigslist.org
+queries: [brooklyn, somewhere, elsewhere, yet another place]
+min_price: 1200
+max_price: 1850

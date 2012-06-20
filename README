@@ -1,0 +1,4 @@
+- Install gem deps with bundler or see Gemfile
+- Rename config-example.yml to config.yml and edit
+- Make sure /usr/lib/sendmail correctly sends mail on your system. If it doesn't already, setup esmtp or Postfix to relay mail through another system.
+- Run watch.rb to check for new posts and email you about new ones. You probably want to have cron do this.
